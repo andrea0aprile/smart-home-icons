@@ -1,7 +1,7 @@
 {
   "name": "smart-home-icons",
-  "version": "1.0.3",
-  "description": "Custom icon set Smart Home Themed",
+  "version": "1.0.4",
+  "description": "Lightweight and optimized Smart Home Icons for React Native and Expo",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
