@@ -4,16 +4,12 @@ A lightweight, custom icon font designed for Smart Home applications in React Na
 Powered by `@expo/vector-icons`, it works seamlessly with **Expo** and **React Native**.
 
 > Status: **Beta** — under active development
-> <br> > <br>
 
 ## Installation
 
 ```bash
 npm install smart-home-icons
 ```
-
-<br>
-<br>
 
 ## Setup & Usage
 
@@ -49,9 +45,6 @@ export default function App() {
 }
 ```
 
-<br>
-<br>
-
 ## Props
 
 Shicons supports the following props:
@@ -62,24 +55,17 @@ Shicons supports the following props:
 | `size`  | number | No       | 12      | Icon size in pixels                                |
 | `color` | string | No       | black   | Icon color                                         |
 
-**Notes:**
-
-- The `name` prop must match one of the available icon names.
-  <br>
-  <br>
+**Notes:** the `name` prop must match one of the available icon names.
 
 ## Cheat Sheet
 
 Here are the available icons included in this package: (coming soon)
-<br>
-<br>
+🔜 🔜 🔜
 
 ## Contributing
 
 This project is in beta and actively developed.
 Feel free to open issues or submit pull requests to help improve the icon set.
-<br>
-<br>
 
 ## License
 
