@@ -57,10 +57,9 @@ Shicons supports the following props:
 
 **Notes:** the `name` prop must match one of the available icon names.
 
-## Cheat Sheet
+## Cheat Sheet 🔜
 
 Here are the available icons included in this package: (coming soon)
-🔜 🔜 🔜
 
 ## Contributing
 
