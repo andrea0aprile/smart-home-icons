@@ -1,9 +1,10 @@
 # Smart Home Icons
 
-A lightweight, custom icon font designed for Smart Home applications in React Native.
+A lightweight, custom icon font designed for Smart Home applications in React Native.<br>
 Powered by `@expo/vector-icons`, it works seamlessly with **Expo** and **React Native**.
 
 > Status: **Beta** — under active development
+> <br> > <br>
 
 ## Installation
 
@@ -11,9 +12,13 @@ Powered by `@expo/vector-icons`, it works seamlessly with **Expo** and **React N
 npm install smart-home-icons
 ```
 
+<br>
+<br>
+
 ## Setup & Usage
 
-To use the icons, you must load the font file first. This library exports the fontSource required for the expo-font hook.
+To use the icons, you must load the font file first.<br>
+This library exports the fontSource required for the expo-font hook.
 
 ```js
 import React from "react";
@@ -44,28 +49,37 @@ export default function App() {
 }
 ```
 
+<br>
+<br>
+
 ## Props
 
 Shicons supports the following props:
 
-| Prop  | Type   | Required | Default | Description                                        |
-| ----- | ------ | -------- | ------- | -------------------------------------------------- |
-| name  | string | ✅ Yes   | —       | Name of the icon to render (see Cheat Sheet below) |
-| size  | number | ❌ No    | 12      | Icon size in pixels                                |
-| color | string | ❌ No    | black   | Icon color                                         |
+| Prop    | Type   | Required | Default | Description                                        |
+| ------- | ------ | -------- | ------- | -------------------------------------------------- |
+| `name`  | string | Yes      | —       | Name of the icon to render (see Cheat Sheet below) |
+| `size`  | number | No       | 12      | Icon size in pixels                                |
+| `color` | string | No       | black   | Icon color                                         |
 
 **Notes:**
 
 - The `name` prop must match one of the available icon names.
+  <br>
+  <br>
 
 ## Cheat Sheet
 
 Here are the available icons included in this package: (coming soon)
+<br>
+<br>
 
 ## Contributing
 
 This project is in beta and actively developed.
 Feel free to open issues or submit pull requests to help improve the icon set.
+<br>
+<br>
 
 ## License
 
